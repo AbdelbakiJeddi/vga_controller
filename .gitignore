@@ -1,0 +1,9 @@
+# GHDL compilation artifacts
+*.cf
+*.o
+*.ghw
+work-obj*.cf
+
+# Editor / OS artifacts
+.DS_Store
+*~
